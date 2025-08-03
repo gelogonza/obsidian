@@ -1,1 +1,2 @@
-** Repo of my Obsidian Notea **
+# Repo of my Obsidian Notes
+
