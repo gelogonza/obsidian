@@ -1,0 +1,12 @@
+- framer
+- Tango ai
+- Seen.space
+- Handzplay.vercel.app
+- onesharedhouse2030.com
+- Figma
+- cosmos.os
+- design trends
+- tiktok graphic design
+- Mysql workbench
+- Procreate
+- Screen studio- for recording projects

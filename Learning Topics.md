@@ -1,0 +1,22 @@
+- Build marketable projects using GenAI
+- Make something fun/useful for people
+- Post projects on linkedin/tiktok
+- Python/JS for side projects
+- Java/Golang for industry work
+- Focus on remote roles at Series A-C Startups or Big Tech
+- Storytelling matters in interviews
+- Projects > Certs, but open source tops both
+- Keep code quality high & readable as well as using Github for people to see
+- Apply as much as possible to as many places as possible
+- Resume must be clear with no BS metrics
+- LEETCODE
+- LEETCODE
+- LEETCODE
+- Learn Data Structures and Algorithms
+- Focus on 1-3 languages and learn them really well
+- Learn Agents, Multi-modal agents, kernel-based AI
+- Build AI integrated projects (small or large)
+- Reinforce OOP + fundamentals while applying AI
+- Python for AI
+- Hackathons and Conferences
+- Frameworks with OpenAI and Microsoft

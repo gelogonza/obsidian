@@ -1,0 +1,19 @@
+- QUE ES EL SPANGLISH
+- 5 PREGUNTAS
+    - LISTA DE RESPUESTAS
+- LUEGO OTRAS 5 PREGUNTAS
+    - GRAPHS FOR DATA
+    - USE CHARTS FOR DATA PLOTTING
+    - GATHER RESPONSES
+- CREEs QUE EL USO DE SPANGLISH ES CORRUPCION DEL ESPANOL?
+- ESCUCHAN ESPANGLISH EN REDES SOCIALES?
+- datos fueron mas comun en facebook para donde ven espanglish
+- metodolgia
+    - google form
+    - respuestas
+    - resultados
+- color schemes
+    - colors related to hispanic heritage
+    - design patterns/ui as well
+- deberiamos enseñar espanglish en las escuela?
+- should spanglish be taught or used in educational settings

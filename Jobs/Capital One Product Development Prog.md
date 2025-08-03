@@ -1,0 +1,143 @@
+- Emily Batchelder
+- hollisha hale
+- Addison Leftwich (recruiter)
+- 1994 founded
+- richard fairbank (ceo)
+- 52000 associates
+- cities
+	- san fran
+	- chicago
+	- atlanta
+	- dallas
+	- richmond
+	- mclean
+	- philly
+	- boston
+	- new york
+- top 10 us bank
+- aws cloud system main 
+- fortune 150 founder led
+- 66 office locations
+- 56 capital one cafes
+	- free drinks on monday
+	- 50% off w capital one credit card
+- business overview
+	- card function (largest)
+	- consumer function (77 billion loan port)
+	- small business
+	- consumer bank (capital one to customer)
+	- auto financing
+- banking on tech
+	- 13500 tech associates
+	- 83% engineers
+	- agile methodologies
+	- cloud native
+	- modern architecture (restful, microservices, open source)
+	- ai enabled (team of ai swes)
+	life at capital one
+	- diverse talent
+	- culture of inclusion
+	- fairness system 
+- business resource groups
+	- provide support for associates 
+- hybrid work model
+	- 3 days a week mon-thursday
+	- friday is virtual
+	- alot of flex
+- associates/product manager
+	- brooke slezak
+	- day in the life
+		- daily standup, emails, slack
+		- review project details with tech team (collaborative)
+		- design jams collab w design team for upcoming initiatives
+		- user research- travel to dealership to perform user empathy, collect feedback on current features
+		- product review- review new roadmap items to gain alignment from stakeholders
+		- problem solving
+			- human centered
+			- user centered
+			- project management
+			- design 
+			- tech
+			- business analysis
+			- data science
+		- cutting edge of tech
+			-  gen ai chatbot
+		- skills 
+			- emotional intelligence
+				- comm
+				- empathy
+				- ux research
+				- design
+			- strategic planning
+			- critical thinking
+			- technical aptitude
+		- product manager career track
+			- associate
+			- product manager
+			- senior product manager
+		- product management
+			- customer focus
+			- data driven 
+			- continuous learning
+		- Product dev program
+			- 2 year program
+			- user research
+			- data
+			- sprints
+			- success and life cycle of features
+			- candiate profile
+				- stem majors
+				- computer science
+				- information systems
+				-locations
+				- mclean
+				- dallas
+				- richmond
+				-process
+				- VJT Online Assessment
+				- 1st round
+				- power day 2 case product interviews, product skills interview, 1 product discover interview
+				- leadership experience
+				- internship exp
+				- projects
+				- assigned to product buddy after first round
+					- interview prep etc
+				- power day
+					- 4 final round interviews
+				- How to prep
+					- human centered design, design thinking principles
+					- ux principles
+					- youtube channels
+					- case workshops
+					-Business
+					- learn about industry and target customer
+					- problem solve a business contest
+					- make data-driven decisions
+					- determine how to meaure and define success
+					-tech
+					- understand high level frameworks for software
+						- data modeling
+						- cloud data systems
+						-  other fundamental components like APIs
+						- ask SME lots of questions
+						- be digital savvy
+				- Interviews are end of July most likely
+						 - workshops on weekly basis
+						 - VJT gives better understanding on background and how they approach work
+						 - timeframe for new grad is august 2026 but are releasing July 2026
+						 - tools used: 
+							 - live 1-on-1 
+							 - user testing
+							 - usertesting.com for empathy
+							 - jira for product managing
+					- Also consumer facing products
+						- design heavy
+						- internal products
+						- backend products
+						- building gen ai products
+						- dealer software for car dealers
+						- depends on team u get placed on
+					- multitude of evens soon
+					- https://www.youtube.com/watch?v=kG2Ufd_sRBY
+- Tech opened in August
+						- 

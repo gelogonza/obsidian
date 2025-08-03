@@ -1,0 +1,6 @@
+- la mayoria de los participantes dijeron que es muy importante enseñarle español a hijos de imigrantes
+- muchos de los resultados dicen que:
+    - fortalece la identidad y la cultura
+    - abre mas puertas de oportunidad
+    - es importante enseñarles a los hijos cuando son jovenes
+    - importante para traducir y enseñarles a otros hijos de inmigrantes

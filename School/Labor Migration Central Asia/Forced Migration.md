@@ -1,0 +1,20 @@
+- forced deportation in turkey and greece (1923)
+- forced internal exile or resettlement within the soviet union 1930-1940s
+- Greece and Turkey had an agreement in 1924, greece exchanged ~400k muslims and sent them to Turkey
+- Led to Turkey having 99% muslim population
+- Greece became 97% Greek orthodox
+- 1920s kemalist ideology: everyone in turkey is a turk
+- 1937 Koreans deported from eastern siberia to kasakhstan
+- 1937 purged communists and families to Gulag in Kazakhstan
+- 1940s Volga Germans, Chechns, Ingush and other deportees/prisoners are acused of treason
+- forced migrations may be internal or international
+- some are also the result of state policies: x people are feared and not wanted ; y people are needed in a new place
+- outcomes of this are differing state policies that shape assimilation/not
+- basically the state gets to say who lives where. As well as building on russian/ottoman legacies of invitations and exiles to control people and develop the economy
+- has a very strong impact on culture
+- instead of a focus on culture and stories etc this hardship and their other experiences became a central identity
+- the chechens strengthened their relgious beliefs and were empowered by them. this also helped them unite
+- the situation they are in also sort of forces them to look inward instead of trying to branch out, which also forced them to strengthen within
+- Akmola held more that 20 sufi groups by 1955
+- reason for chechens being forced could’ve been for economic gain for stalin during that time.
+- chechen honor code that led to conflict

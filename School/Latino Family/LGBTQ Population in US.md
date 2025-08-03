@@ -1,0 +1,6 @@
+- 200,000 children rasied by same sex couple
+- most children products of heter0 relationships as lgbtq people come out later in life
+- social acceptance
+- 48% of lgbtq adults raising children under 18 are women; 20% men
+- more than 1/3 same sex couples raising kids are racial/ethnic minorities
+- lower incomes, higher poverty rate
